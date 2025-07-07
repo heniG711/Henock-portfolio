@@ -1,0 +1,10 @@
+/azaria-portfolio/
+├── index.html
+├── projects.html
+├── photos.html
+├── resume.html
+├── style.css
+├── Azaria_Resume.pdf
+└── /images/
+    ├── photo1.jpg
+    ├── photo2.jpg
